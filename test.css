@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.cursor-hover{
+    color: #0000ff;
+    /* cursor: pointer; */
+   cursor: pointer;
+}
+.box{
+    padding: 20px;
+    background-color: red;
+    width: 100px;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: green;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
