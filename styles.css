@@ -46,4 +46,18 @@
     height: 100vh;
     background-image: url("images/background.png"), linear-gradient(45deg, rgb(39, 38, 38), rgb(59, 58, 58));
 }
-/* 1.12 hour */
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+/* about us section styles */
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* flex-direction: row-reverse; */
+}
+/* 1.33 hour */
