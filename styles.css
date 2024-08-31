@@ -58,6 +58,49 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 10px;
     /* flex-direction: row-reverse; */
+}
+.title{
+    text-align: center;
+    padding-top: 20px;
+}
+.about-photo{
+   
+}
+.about-info{
+    
+}
+/* our services section style */
+.box{
+  width: 230px;
+  height: 360px;  
+  box-shadow: 10px 10px 30px rgb(253, 253, 253);
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  border-radius: 10px;
+}
+.icon{
+    width: 100px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-details{
+    text-align: center;
+    padding: 10px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 20px;
+    background-color: rgb(76, 75, 75);
 }
 /* 1.33 hour */
